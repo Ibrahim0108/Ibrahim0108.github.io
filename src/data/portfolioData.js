@@ -45,7 +45,7 @@ export const projects = [
 
     // Minimum 30 characters recommended
    description:
-  "A role-based educational workspace management system where teachers manage teams, assign tasks, track student progress, and students collaborate using secure invitation codes."
+  "A role-based educational workspace management system where teachers manage teams, assign tasks, track student progress, and students collaborate using secure invitation codes.",
 
     image: Task,
 
