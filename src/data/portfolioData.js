@@ -1,7 +1,7 @@
 import web1 from "../assets/images/projects/web.png"
 import aboutImg from "../assets/images/about.jpg";
 import planetFooter from "../assets/images/footer-planet.png";
-import Task from "../assets/images/projects/Task.png
+import Task from "../assets/images/projects/Task.png";
 
 export const heroData = {
   name: "Mohammed Ibrahim Rahmath",
