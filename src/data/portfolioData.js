@@ -1,6 +1,7 @@
 import web1 from "../assets/images/projects/web.png"
 import aboutImg from "../assets/images/about.jpg";
 import planetFooter from "../assets/images/footer-planet.png";
+import Task from "../assets/images/projects/Task.png
 
 export const heroData = {
   name: "Mohammed Ibrahim Rahmath",
@@ -43,10 +44,10 @@ export const projects = [
     category: "Web Apps",
 
     // Minimum 30 characters recommended
-    description:
-      "Virtual classroom platform where teachers assign tasks, create teams, track progress, and manage students through secure class access keys.",
+   description:
+  "A role-based educational workspace management system where teachers manage teams, assign tasks, track student progress, and students collaborate using secure invitation codes."
 
-    image: web1,
+    image: Task,
 
     tech: {
       frontend: ["ASP.NET MVC"],
@@ -54,10 +55,10 @@ export const projects = [
       db: ["SQL Server"],
     },
 
-    githubUrl: "",
+    githubUrl: "https://github.com/Ibrahim0108/TaskAssignmentSystem",
     preview: {
       type: "live",
-      url: "",
+      url: "http://taskflow-manager.runasp.net/",
     },
   },
 
